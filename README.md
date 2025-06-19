@@ -1,6 +1,6 @@
 # FightYourFears
 
-A 2D platformer, developed for the Ludum Dare 48 game jam. It is themed around going deeper into your mind while discovering stronger monsters and fears. Avoid them, beat platforming, and fight your fears.
+A 2D platformer, developed for the Ludum Dare 48 game jam. It is a 2D platformer themed around going deeper into your mind while discovering stronger monsters and fears. Avoid them, beat platforming, and fight your fears.
 
 # How to Use It
 
@@ -11,4 +11,6 @@ A 2D platformer, developed for the Ludum Dare 48 game jam. It is themed around g
 
 # What I Learned
 
-- How to create a more satisfying character controller
+- Making a complete game with Unity and publishing it.
+- Working under time pressure.
+- Making a satisfying character controller.
