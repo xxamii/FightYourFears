@@ -11,6 +11,6 @@ A 2D platformer, developed for the Ludum Dare 48 game jam. It is a 2D platformer
 
 # What I Learned
 
-- Making a complete game with Unity and publishing it.
+- Making a complete game in Unity and publishing it.
 - Working under time pressure.
 - Making a satisfying character controller.
